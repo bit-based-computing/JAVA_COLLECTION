@@ -1,5 +1,3 @@
-package list;
-
 import java.util.Stack;
 
 public class StackImplementation {
